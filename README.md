@@ -3,6 +3,7 @@
 <p align="left">Tenho isso daqui pq o colégio manda</p>
 
 ###
+<br clear="both">
 
 <div align="right">
       <img height="200" src="https://i.pinimg.com/736x/e1/1d/a5/e11da57e8d2d3c912df1ab14d5bc058d.jpg"  />
@@ -17,11 +18,6 @@
 
 ###
 
-<br clear="both">
-
-
-
-###
   
 <br clear="both">
 
