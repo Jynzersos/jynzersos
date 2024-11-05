@@ -8,6 +8,11 @@
 
 ###
 
+
+<img align="right" height="154" src="https://i.pinimg.com/564x/a1/6b/57/a16b5766d54653b297febd18bf89b789.jpg"  />
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -36,12 +41,10 @@
 
 ###
 
-<img align="right" height="154" src="https://i.pinimg.com/564x/a1/6b/57/a16b5766d54653b297febd18bf89b789.jpg"  />
-
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <img src="[https://spotify-recently-played-readme.vercel.app/api?count=5](https://open.spotify.com/intl-pt?flow_ctx=306eca6e-69d2-4e5f-9ab5-6e6a3cffb5a1%3A1730836118)" alt="Spotify recently played"  />
 </div>
 
 ###
