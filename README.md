@@ -44,7 +44,7 @@
 ###
 
 <div align="center">
-  <img src="(https://open.spotify.com/user/zt2l7yxp7nbqc0t8f1vfcbg50)" alt="Spotify recently played"  />
+  <img src="https://open.spotify.com/user/zt2l7yxp7nbqc0t8f1vfcbg50" alt="Spotify recently played"  />
 </div>
 
 ###
