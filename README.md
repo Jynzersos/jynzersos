@@ -44,7 +44,7 @@
 ###
 
 <div align="center">
-  <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zt2l7yxp7nbqc0t8f1vfcbg50&unique=true)"  />
+  <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zt2l7yxp7nbqc0t8f1vfcbg50)"  />
 </div>
 
 
