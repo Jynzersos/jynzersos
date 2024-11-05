@@ -9,6 +9,11 @@
 
 ###
 
+<div align="center">
+  <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zt2l7yxp7nbqc0t8f1vfcbg50)"  />
+</div> 
+
+###
 <br clear="both">
 
 <div align="center">
@@ -37,14 +42,7 @@
 
 ###
 
-###
 
-<div align="center">
-  <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zt2l7yxp7nbqc0t8f1vfcbg50)"  />
-</div>
-
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jynzersos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
