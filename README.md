@@ -1,21 +1,9 @@
-<h2 align="left">Meu nome é Mizael :)</h2>
+<h2 align="center">Meu nome é Mizael :)</h2>
 
-<p align="left">Tenho isso daqui pq o colégio manda</p>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://open.spotify.com/user/zt2l7yxp7nbqc0t8f1vfcbg50">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zt2l7yxp7nbqc0t8f1vfcbg50&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
+<p align="center">Tenho isso daqui pq o colégio manda</p>
 
 ###
 
-  
 <br clear="both">
 
 <div align="center">
@@ -44,6 +32,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/zt2l7yxp7nbqc0t8f1vfcbg50">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zt2l7yxp7nbqc0t8f1vfcbg50&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
