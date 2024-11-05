@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img src="[Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zt2l7yxp7nbqc0t8f1vfcbg50)"  />
+  <img src="[Spotify](https://spotify-recently-played-readme.vercel.app/api?user=zt2l7yxp7nbqc0t8f1vfcbg50)"  />
 </div> 
 
 ###
