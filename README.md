@@ -8,17 +8,17 @@
   <a href="https://open.spotify.com/user/zt2l7yxp7nbqc0t8f1vfcbg50">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=zt2l7yxp7nbqc0t8f1vfcbg50&count=5&unique=true" alt="Spotify recently played"  />
   </a>
+    <div align="right">
+      <img height="200" src="https://i.pinimg.com/736x/e1/1d/a5/e11da57e8d2d3c912df1ab14d5bc058d.jpg"  />
+    </div>
+
 </div>
 
 ###
 
 <br clear="both">
 
-<div align="right">
-  <img height="200" src="https://i.pinimg.com/736x/e1/1d/a5/e11da57e8d2d3c912df1ab14d5bc058d.jpg"  />
-</div>
 
-###
 
 ###
   
