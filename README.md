@@ -12,15 +12,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<div align="right">
-  <img height="200" src="https://i.pinimg.com/736x/e1/1d/a5/e11da57e8d2d3c912df1ab14d5bc058d.jpg"  />
-</div>
-
-###
 
 ###
 
