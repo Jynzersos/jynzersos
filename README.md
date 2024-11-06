@@ -51,9 +51,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jynzersos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+
 ###
+<img src="https://raw.githubusercontent.com/jynzersos/jynzersos/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/1b/40/65/1b4065b2c6c11a4ff8dca4b7a956cf83.gif" />
 </div>
+
+
 
